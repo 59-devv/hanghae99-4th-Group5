@@ -12,6 +12,9 @@ public class Bj_3052 {
         for (int i = 0; i < 10; i++) {
             setArray.add(Integer.parseInt(br.readLine()) % 42);
         }
-        System.out.println(setArray.size());
+        bw.write(setArray.size() + "");
+        bw.flush();
+        bw.close();
+        br.close();
     }
 }
