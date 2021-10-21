@@ -9,6 +9,7 @@
 # 59 add
 .idea/
 59.iml
+test.java
 
 # User-specific stuff
 .idea/**/workspace.xml
