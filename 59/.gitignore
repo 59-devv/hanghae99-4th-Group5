@@ -10,8 +10,12 @@
 .idea/
 59.iml
 test.java
+<<<<<<< HEAD
 src/test.java
 src/test2.java
+=======
+test2.java
+>>>>>>> 33426a18bcde4eb56d871864912a9344094f957b
 
 # User-specific stuff
 .idea/**/workspace.xml
