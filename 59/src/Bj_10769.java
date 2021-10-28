@@ -15,6 +15,7 @@ public class Bj_10769 {
         int sadCnt = 0;
 
         // :-) 나  :-( 를 하나라도 포함할 때까지 계속 반복
+
         while (strs.contains(":-)") || strs.contains(":-(")) {
             if (strs.contains(":-)")) {
                 // 첫번째 :-) 를 찾아서 없애주고, 숫자를 올려줌
