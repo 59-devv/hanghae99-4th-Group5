@@ -10,6 +10,8 @@
 .idea/
 59.iml
 test.java
+src/test.java
+src/test2.java
 
 # User-specific stuff
 .idea/**/workspace.xml
