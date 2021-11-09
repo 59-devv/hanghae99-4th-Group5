@@ -20,7 +20,7 @@ public class Prgrs_numStringWords {
         bw.close();
         br.close();
 
-        // 인상깊었던 다른사람의 풀이
+//         인상깊었던 다른사람의 풀이
 //        String[][] mapArr = { {"0", "zero"},
 //                                {"1", "one"},
 //                                {"2", "two"},
